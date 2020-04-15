@@ -1,3 +1,4 @@
 <?php
 
-ehco 'my name is zhengyaocheng';
+ehco '只要你还在路上，路就是你的';
+
